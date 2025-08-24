@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Flutter & Django
 - 🌱 I’m currently learning Python
-- 💬 Ask me anything about Flutter 
+- 💬 Ask me anything about Flutter & Python
 - 📫 How to reach me: muhammadzaidkamran@gmail.com
 - ⚡ Fun fact: I'm comming to teen
 
